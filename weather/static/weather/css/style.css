@@ -1,0 +1,44 @@
+body{
+    font-family: Arial;
+    font-size: 18px;
+    background-color: rgb(64, 59, 59);
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.form-css{
+    text-align: center;
+}
+label{
+    font-size: 30px;
+}
+input{
+    height: 50px;
+    width: 300px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+}
+input::placeholder{
+    font-size: large;
+    color: white;
+}
+button{
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+}
+.div-css{
+    color: bisque;
+    text-align: center;
+}
